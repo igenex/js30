@@ -2,7 +2,7 @@ body {
     display: flex;
     flex-flow: row nowrap;
     width: 90vw;
-    height: 100vh;
+    height: 90vh;
     justify-content: center;
     align-items: center;
     background: #000 url(img/bgc.jpg) no-repeat;
